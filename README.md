@@ -1,16 +1,20 @@
-## Hi there 👋
+🎯 ¡Hola, soy Hugo!
+👨‍💻 Desarrollador en formación | 📱 Android (Kotlin) | 💾 Backend y Bases de Datos | 🎣 Aficionado a la pesca y conducción
 
-<!--
-**HugoSalaDev/HugoSalaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí
+🎓 Estudio Desarrollo de Aplicaciones Web
+📱 Aprendiendo Kotlin para desarrollo de apps nativas en Android
+💻 Me gusta más la lógica, bases de datos y el backend que el diseño
+📌 Habilidades
+Lenguajes: Kotlin, Java, SQL
+Bases de datos: MySQL, SQLite
+Herramientas: Android Studio, Git, GitHub
+🔥 Objetivos
+✔ Convertirme en desarrollador Android
+✔ Crear mis primeras apps en Kotlin
+✔ Contribuir en proyectos open-source
 
-Here are some ideas to get you started:
+📫 Contáctame:
+hugo.pexegueiro@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Siempre aprendiendo y mejorando cada día.
