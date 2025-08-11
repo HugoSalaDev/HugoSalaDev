@@ -35,7 +35,6 @@
 
 ## 📫 Contacto
 - ✉ **Correo:** [hugo.pexegueiro@gmail.com](mailto:hugo.pexegueiro@gmail.com)  
-- 💼 **GitHub:** [github.com/TU_USUARIO](https://github.com/TU_USUARIO)  
 
 ---
 
