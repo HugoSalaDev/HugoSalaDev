@@ -1,24 +1,42 @@
-🎯 ¡Hola, soy Hugo!
-👨‍💻 Desarrollador en formación | 📱 Android (Kotlin) | 💾 Backend y Bases de Datos
+# 👋 ¡Hola! Soy Hugo  
+**Desarrollador Web en formación** | ⚛️ **React** | 🖥 **JavaScript & CSS**
 
-Sobre mí
-- 🎓 Estudio Desarrollo de Aplicaciones Web
-- 📱 Actualmente aprendiendo Kotlin para desarrollo nativo en Android
-- 💻 Me apasiona la lógica, bases de datos y el backend+
-  
-📌 Habilidades
-- Lenguajes: Kotlin, Java, SQL
-- Bases de datos: MySQL, SQLite
-- Herramientas: Android Studio, Git, GitHub
-  
-🔥 Objetivos
-- ✔ Convertirme en desarrollador Android nativo
-- ✔ Crear aplicaciones móviles robustas y funcionales en Kotlin
-- ✔ Mejorar mis conocimientos en bases de datos y backend
-- ✔ Contribuir en proyectos open-source para aprender y colaborar
+---
 
-📫 Contáctame:
+## 📌 Sobre mí
+- 🎓 Estudiante de **Desarrollo de Aplicaciones Web**  
+- 💻 Actualmente aprendiendo **JavaScript, React y Node.js**  
+- 🎨 Mejorando mis habilidades en **HTML, CSS y maquetación responsive**  
+- 🚀 Apasionado por crear interfaces limpias y funcionales  
 
-- Correo: hugo.pexegueiro@gmail.com
+---
 
-🚀 Siempre aprendiendo y mejorando cada día.
+## 🛠 Habilidades en progreso
+**Lenguajes y tecnologías:**  
+- HTML5  
+- CSS3 (Flexbox, Grid)  
+- JavaScript (ES6+)  
+- React.js (Componentes, props, estado, hooks)  
+
+**Herramientas:**  
+- Git & GitHub  
+- Visual Studio Code  
+- Node.js & npm  
+
+---
+
+## 🎯 Objetivos actuales
+- ✅ Construir aplicaciones web dinámicas con **React**  
+- ✅ Mejorar mis habilidades en **JavaScript moderno**  
+- ✅ Aprender a consumir APIs y mostrar datos en tiempo real  
+- ✅ Adoptar buenas prácticas de código y control de versiones  
+
+---
+
+## 📫 Contacto
+- ✉ **Correo:** [hugo.pexegueiro@gmail.com](mailto:hugo.pexegueiro@gmail.com)  
+- 💼 **GitHub:** [github.com/TU_USUARIO](https://github.com/TU_USUARIO)  
+
+---
+
+> 💡 *"Cada línea de código que escribo me acerca más a mi meta."*
