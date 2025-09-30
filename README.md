@@ -1,41 +1,43 @@
-# 👋 ¡Hola! Soy Hugo  
-**Desarrollador Web en formación** | ⚛️ **React** | 🖥 **JavaScript & CSS**
+# 👋 ¡Hola! Soy Hugo
+
+**Desarrollador Backend en formación** | ☕ **Java & Spring Boot** | ⚙️ **APIs REST**
 
 ---
 
 ## 📌 Sobre mí
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Web**  
-- 💻 Actualmente aprendiendo **JavaScript, React y Node.js**  
-- 🎨 Mejorando mis habilidades en **HTML, CSS y maquetación responsive**  
-- 🚀 Apasionado por crear interfaces limpias y funcionales  
+- 🎓 Estudiante de **Desarrollo de Aplicaciones**
+- 💻 Actualmente aprendiendo **Java, Spring Boot y bases de datos**
+- ☁️ Enfocado en el diseño e implementación de **APIs robustas y escalables**
+- 🚀 Apasionado por la lógica de negocio, la eficiencia y el rendimiento del servidor
 
 ---
 
 ## 🛠 Habilidades en progreso
-**Lenguajes y tecnologías:**  
-- HTML5  
-- CSS3 (Flexbox, Grid)  
-- JavaScript (ES6+)  
-- React.js (Componentes, props, estado, hooks)  
+**Lenguajes y frameworks:**
+- **Java** (Programación Orientada a Objetos - POO)
+- **Spring Boot** (Microservicios, JPA/Hibernate)
+- **SQL** (Modelado y consultas de bases de datos)
+- **APIs REST** (Diseño y consumo)
 
-**Herramientas:**  
-- Git & GitHub  
-- Visual Studio Code  
-- Node.js & npm  
+**Herramientas:**
+- Git & GitHub
+- IDEs (IntelliJ IDEA o Eclipse)
+- Maven / Gradle
+- Postman (Testing de APIs)
 
 ---
 
 ## 🎯 Objetivos actuales
-- ✅ Construir aplicaciones web dinámicas con **React**  
-- ✅ Mejorar mis habilidades en **JavaScript moderno**  
-- ✅ Aprender a consumir APIs y mostrar datos en tiempo real  
-- ✅ Adoptar buenas prácticas de código y control de versiones  
+- ✅ Construir aplicaciones backend sólidas con **Spring Boot**
+- ✅ Profundizar en el manejo de **bases de datos** relacionales
+- ✅ Implementar patrones de diseño y buenas prácticas en **Java**
+- ✅ Asegurar y documentar **APIs RESTful**
 
 ---
 
 ## 📫 Contacto
-- ✉ **Correo:** [hugo.pexegueiro@gmail.com](mailto:hugo.pexegueiro@gmail.com)  
+- ✉ **Correo:** [hugo.pexegueiro@gmail.com](mailto:hugo.pexegueiro@gmail.com)
 
 ---
 
-> 💡 *"Cada línea de código que escribo me acerca más a mi meta."*
+> 💡 *"Cada línea de código me acerca a construir la base robusta de la próxima gran aplicación."*
