@@ -74,6 +74,7 @@ Actualmente estoy buscando **prácticas (FCT) para 2026**, donde pueda seguir ap
 - **Notificaciones push** para alertas de precio
 - **GitHub Actions** ejecuta un cron cada 6 horas para comprobar alertas
 - Aplicación desplegada en producción
+- Desarrollo asistido con herramientas de IA para acelerar el aprendizaje y la implementación
 
 ### Stack utilizado
 
